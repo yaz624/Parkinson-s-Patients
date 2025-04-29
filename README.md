@@ -10,6 +10,8 @@ The skeletal 3D data (x,y,z) coordinates stored in the .csv file have the follow
 Number of Rows: Indicate the number of frames present in the clip 
 (e.g. Pt204_C_n_350\input_3D\keypoints.csv has 91 rows i.e. 91 frames of the clip)
 
-Number of Columns (A to AY, 51 columns) : Each column indicates the (x,y,z) coordinate joint position values of 17 skeletal joints data starting with x0,y0,z0, x1,y1,z1,x2,y2,z2,………………..x17,y17 (total 51 columns)  
+Number of Columns (A to AY, 51 columns) : Each column indicates the (x,y,z) coordinate joint position values of 17 skeletal joints data starting with x0,y0,z0, x1,y1,z1,x2,y2,z2,………………..x17,y17 (total 51 columns)  Data description for STS Data stored in .CSV files
 
-Data description for STS Data stored in .CSV files
+# PD4T
+
+PD4T is a Parkinson’s disease dataset for human action quality assessment. videos were recorded using a single RGB camera from 30 PD patients performed four different PD tasks including gait (426 videos), hand movement (848 videos), finger tapping (806 videos), and leg agility (851 videos) in clinical settings. The trained rater assigned a score for each task, based on the protocols of UPDRS, varying between 0 and 4 depending on the level of severity.
