@@ -1,4 +1,4 @@
-# REMAP
+# UK-REMAP
 Turning 2D data:
 The skeletal 2D data (x,y) coordinates stored in the .csv file have the following format:
 1. Number of Rows: Indicate the number of frames present in the clip 
@@ -15,3 +15,6 @@ Number of Columns (A to AY, 51 columns) : Each column indicates the (x,y,z) coor
 # PD4T
 
 PD4T is a Parkinson’s disease dataset for human action quality assessment. videos were recorded using a single RGB camera from 30 PD patients performed four different PD tasks including gait (426 videos), hand movement (848 videos), finger tapping (806 videos), and leg agility (851 videos) in clinical settings. The trained rater assigned a score for each task, based on the protocols of UPDRS, varying between 0 and 4 depending on the level of severity.
+
+# WearGait-PD
+![image](https://github.com/user-attachments/assets/3ad7bb09-2f8f-4c43-8172-dca406fbdee4)
