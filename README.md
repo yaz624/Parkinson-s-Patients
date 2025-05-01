@@ -18,3 +18,4 @@ PD4T is a Parkinson’s disease dataset for human action quality assessment. vid
 
 # 3.WearGait-PD
 ![image](https://github.com/user-attachments/assets/3ad7bb09-2f8f-4c43-8172-dca406fbdee4)
+![image](https://github.com/user-attachments/assets/6eaac727-81ba-4df5-9355-7a7aa90651a7)
